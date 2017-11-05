@@ -1,4 +1,3 @@
-from __future__ import division
 import numpy as np
 from numpy.ma import MaskedArray
 from scipy.stats import iqr

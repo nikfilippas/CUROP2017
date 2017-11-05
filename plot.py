@@ -7,7 +7,6 @@ and plots graphs of the signal received within an array of radii in two ways:
 (ii)   the cumulative signal received up to each bin's radius.
 """
 
-from __future__ import division
 import numpy as np
 from matplotlib import cm
 import matplotlib.pyplot as plt

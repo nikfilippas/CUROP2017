@@ -23,7 +23,6 @@
 	in each distance bin.
 """
 
-from __future__ import division
 import os
 import cv2
 import numpy as np

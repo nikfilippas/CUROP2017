@@ -2,7 +2,6 @@
 Plots skymap of position of the Herschel fields, taking masked areas into account.
 """
 
-from __future__ import division
 import os
 import cv2
 import numpy as np
